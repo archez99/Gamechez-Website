@@ -87,10 +87,10 @@ Vote Gamechez</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Gamechez, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">Senin Favori Botun</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot Gamechez ile en güzel partileri vermeye hazır mısınız?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1231487778769076317/1255665524583432244/Pofu.png?ex=667df526&is=667ca3a6&hm=f36f661cca94fb3b66af133b9fbb06764659b400808ba0a549e2e40d8d346950&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
