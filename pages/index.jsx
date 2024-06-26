@@ -90,7 +90,7 @@ Vote Gamechez</a>
                   <p className="text-3xl text-white font-semibold">Senin Favori Botun</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot Gamechez ile en güzel partileri vermeye hazır mısınız?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/1231487778769076317/1255665524583432244/Pofu.png?ex=667df526&is=667ca3a6&hm=f36f661cca94fb3b66af133b9fbb06764659b400808ba0a549e2e40d8d346950&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1231487778769076317/1255665798454706186/Remove-bg.ai_1717233010916.png?ex=667df567&is=667ca3e7&hm=637d399f334c1c98e7e077a101cff058f5112f3498751d58eb4d670bfdeb3a68&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
