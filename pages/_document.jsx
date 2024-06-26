@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Sunucunda Eğlence Olmasınmı? Ekonomi, Eğlence İçin Gamechez!"
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="Gamechez" />
