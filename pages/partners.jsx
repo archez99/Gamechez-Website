@@ -16,7 +16,7 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://codeshare.me">
+            <a href="https://discord.gg/tkh">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/1188363544694104064/a_0c7467e6385fc43bf8aa0c9c24c4d180.gif" />
                             <div>
