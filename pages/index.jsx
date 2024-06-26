@@ -83,9 +83,9 @@ Vote Gamechez</a>
 
 
 
-      <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-400 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
+      <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
-                <div className="lg:mx-40 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
+                <div className="lg:mx-400 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1231487778769076317/1255665798454706186/Remove-bg.ai_1717233010916.png?ex=667df567&is=667ca3e7&hm=637d399f334c1c98e7e077a101cff058f5112f3498751d58eb4d670bfdeb3a68&"  width="64" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Senin Favori Botun</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot Gamechez ile en güzel partileri vermeye hazır mısınız?</p>
