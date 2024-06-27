@@ -37,7 +37,7 @@ Oy Ver</a>
         <Image width="600" height="600" src="/img/Gamechez.png"  />
         </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="/img/gift-right.png"  />
+        <Image  width="600" height="600" src="/img/Gamechez3.png"  />
         </div>
       </div>
 
