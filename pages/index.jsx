@@ -62,8 +62,8 @@ Oy Ver</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-platform music playback. (Spotify, Souncloud, YouTube) | (It is a bot that complies with all copyrights and licenses.)</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> ...</p>
+                  <p className="text-gray-500 line-clamp-4">...</p>
                 </div>
               </div>
               <div>
@@ -87,8 +87,8 @@ Oy Ver</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with MusicMaker, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">Senin Favori Botun</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot olan Gamechez ile en iyi partileri düzenlemeye hazır mısınız?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1231487778769076317/1255665798454706186/Remove-bg.ai_1717233010916.png?ex=667df567&is=667ca3e7&hm=637d399f334c1c98e7e077a101cff058f5112f3498751d58eb4d670bfdeb3a68&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
